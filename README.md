@@ -1,4 +1,4 @@
-# Lib-Mngmnt-System-Backend
+# Library Management System
 <br>
 <h2>Library Management System using Python + SQLite</h2>
 <h3> What's in the project? </h3>
